@@ -2,6 +2,10 @@
 Unofficial various websites SMS api. Currently fullonsms.com, way2sms.com, site2sms.com and smsze.com are built.  
 *This is  solely for educational purpose.*
 
+#Requirements
+* PHP 5.3.x
+* PHP Curl
+
 #Usage
 **sms.php** is an entry point script and accepts parameter in GET/POST methods
 Accepted parameters:  
